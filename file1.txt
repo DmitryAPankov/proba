@@ -1,11 +1,2 @@
-<<<<<<< HEAD
 edt1
-edt2
-=======
-<<<<<<< HEAD
-
-ds2
-=======
-edt1
->>>>>>> a40f7fc5854da85f3c1bd68d559c0ce00883a708
->>>>>>> branch 'master' of https://github.com/DmitryAPankov/proba
+ds2_edt2
