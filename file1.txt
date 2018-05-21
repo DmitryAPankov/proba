@@ -3,3 +3,6 @@ ds2_edt2
 ds3
 ds4
 edt5
+edt6
+edt7
+edt8
